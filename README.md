@@ -1,5 +1,6 @@
 # Proyek2
-[![N|Solid](./img/proposal/Poltekpos_Logo.JPG)](http://www.poltekpos.ac.id/)
+[![N|Solid](./img/proposal/logo.jpg)](http://www.poltekpos.ac.id/)
+
 This is example repository for educational purpose
 ## Pre Requisite
 * Linux Operating System
