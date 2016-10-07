@@ -1,4 +1,5 @@
 # Proyek2
+[![N|Solid](./img/proposal/Poltekpos_Logo.JPG)](http://www.poltekpos.ac.id/)
 This is example repository for educational purpose
 ## Pre Requisite
 * Linux Operating System
@@ -17,7 +18,7 @@ $ mysql -u apps backup.sql
 
 
 
-Rolly Maulana Awangga
+**Rolly Maulana Awangga**
 
 D4 Teknik Informatika Politeknik Pos Indonesia
 
